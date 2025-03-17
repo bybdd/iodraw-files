@@ -456,7 +456,7 @@
         <mxCell id="0vqyelFFQic9ImjXw-jQ-54" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="530" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0vqyelFFQic9ImjXw-jQ-55" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0vqyelFFQic9ImjXw-jQ-55" value="reshape" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="550" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
