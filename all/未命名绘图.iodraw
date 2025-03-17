@@ -402,7 +402,7 @@
         <mxCell id="0vqyelFFQic9ImjXw-jQ-38" value="x" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="410" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0vqyelFFQic9ImjXw-jQ-39" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="0vqyelFFQic9ImjXw-jQ-39" value="Pooling" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="335" y="335" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
