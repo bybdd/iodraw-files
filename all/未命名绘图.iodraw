@@ -315,6 +315,12 @@
         <mxCell id="0vqyelFFQic9ImjXw-jQ-15" value="Swin&lt;div&gt;Transformer&lt;/div&gt;&lt;div&gt;Block&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="120" width="70" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="0vqyelFFQic9ImjXw-jQ-16" value="Swin&lt;div&gt;Transformer&lt;/div&gt;&lt;div&gt;Block&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="120" width="70" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0vqyelFFQic9ImjXw-jQ-17" value="Swin&lt;div&gt;Transformer&lt;/div&gt;&lt;div&gt;Block&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="120" width="70" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
