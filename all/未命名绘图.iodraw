@@ -411,8 +411,14 @@
         <mxCell id="0vqyelFFQic9ImjXw-jQ-42" value="Softmax" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="205" y="405" width="115" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="0vqyelFFQic9ImjXw-jQ-43" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0vqyelFFQic9ImjXw-jQ-43" value="prob" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="401.25" width="70" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0vqyelFFQic9ImjXw-jQ-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="370" as="sourcePoint" />
+            <mxPoint x="440" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
