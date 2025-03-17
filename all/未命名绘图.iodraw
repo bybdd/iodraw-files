@@ -318,9 +318,6 @@
         <mxCell id="0vqyelFFQic9ImjXw-jQ-16" value="Swin&lt;div&gt;Transformer&lt;/div&gt;&lt;div&gt;Block&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="120" width="70" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0vqyelFFQic9ImjXw-jQ-17" value="Swin&lt;div&gt;Transformer&lt;/div&gt;&lt;div&gt;Block&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="120" width="70" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="0vqyelFFQic9ImjXw-jQ-18" value="Linear Embedding" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="110" y="165" width="120" height="30" as="geometry" />
         </mxCell>
@@ -344,6 +341,9 @@
         </mxCell>
         <mxCell id="0vqyelFFQic9ImjXw-jQ-26" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;×2&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="240" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0vqyelFFQic9ImjXw-jQ-27" value="Swin&lt;div&gt;Transformer&lt;/div&gt;&lt;div&gt;Block&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="120" width="70" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
