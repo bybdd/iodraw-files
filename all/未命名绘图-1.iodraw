@@ -499,12 +499,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ic52ckXAyKkhg4VEQSYC-6" value="信道解码" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="400" y="680" width="80" height="40" as="geometry" />
+          <mxGeometry x="161" y="800" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ic52ckXAyKkhg4VEQSYC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ic52ckXAyKkhg4VEQSYC-8" target="ic52ckXAyKkhg4VEQSYC-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ic52ckXAyKkhg4VEQSYC-8" value="噪声" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ic52ckXAyKkhg4VEQSYC-8" value="噪声" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="760" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
