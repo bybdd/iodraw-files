@@ -510,8 +510,8 @@
         <mxCell id="ic52ckXAyKkhg4VEQSYC-17" value="联合信源信道编码" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="41" y="961" width="119" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ic52ckXAyKkhg4VEQSYC-18" value="信源编码" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="325" y="1001" width="80" height="40" as="geometry" />
+        <mxCell id="ic52ckXAyKkhg4VEQSYC-18" value="信道" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="961" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ic52ckXAyKkhg4VEQSYC-19" value="信源编码" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="506" y="1001" width="80" height="40" as="geometry" />
