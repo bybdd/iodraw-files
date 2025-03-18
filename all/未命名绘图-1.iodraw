@@ -477,7 +477,7 @@
         <mxCell id="ic52ckXAyKkhg4VEQSYC-1" value="信源编码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="680" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ic52ckXAyKkhg4VEQSYC-3" value="信源编码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ic52ckXAyKkhg4VEQSYC-3" value="信道编码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="161" y="680" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ic52ckXAyKkhg4VEQSYC-4" value="信源编码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
