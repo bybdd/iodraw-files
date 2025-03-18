@@ -522,6 +522,9 @@
         <mxCell id="ic52ckXAyKkhg4VEQSYC-19" value="联合信源信道解码" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="320" y="961" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ic52ckXAyKkhg4VEQSYC-22" value="噪声" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1040" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
