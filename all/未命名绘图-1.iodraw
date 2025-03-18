@@ -507,6 +507,9 @@
         <mxCell id="ic52ckXAyKkhg4VEQSYC-8" value="噪声" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="400" y="740" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ic52ckXAyKkhg4VEQSYC-17" value="信源编码" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="690" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
