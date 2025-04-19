@@ -269,7 +269,7 @@
           <mxGeometry x="565" y="660" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sg_qUHft_5jF-QeHtQmz-1" value="编码器ga" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="910" width="100" height="50" as="geometry" />
+          <mxGeometry x="110" y="910" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
