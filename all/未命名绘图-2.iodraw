@@ -268,9 +268,6 @@
         <mxCell id="WEeSjetQG0cFZiPd9qpB-72" value="5*5*32/1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="565" y="660" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sg_qUHft_5jF-QeHtQmz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sg_qUHft_5jF-QeHtQmz-1" target="sg_qUHft_5jF-QeHtQmz-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="sg_qUHft_5jF-QeHtQmz-1" value="编码器ga" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="910" width="80" height="50" as="geometry" />
         </mxCell>
@@ -296,7 +293,7 @@
           <mxGeometry x="400" y="1050" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sg_qUHft_5jF-QeHtQmz-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="850" width="310" height="170" as="geometry" />
+          <mxGeometry x="517" y="850" width="310" height="170" as="geometry" />
         </mxCell>
         <mxCell id="sg_qUHft_5jF-QeHtQmz-8" value="prob_enc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="950" width="80" height="50" as="geometry" />
