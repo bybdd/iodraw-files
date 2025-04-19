@@ -340,6 +340,9 @@
             <mxPoint x="440" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="sg_qUHft_5jF-QeHtQmz-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.41;entryY=0.958;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sg_qUHft_5jF-QeHtQmz-3" target="sg_qUHft_5jF-QeHtQmz-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
