@@ -314,7 +314,7 @@
           <mxGeometry x="300" y="840" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sg_qUHft_5jF-QeHtQmz-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Semantic Embed Decoder side&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="255" y="1169" width="240" height="30" as="geometry" />
+          <mxGeometry x="270" y="1180" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sg_qUHft_5jF-QeHtQmz-21" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="257.5" y="882.5" width="135" height="120" as="geometry" />
@@ -326,7 +326,7 @@
           <mxGeometry x="385" y="1050" width="135" height="120" as="geometry" />
         </mxCell>
         <mxCell id="sg_qUHft_5jF-QeHtQmz-25" value="SemanticEmbed" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="240" y="940" width="110" height="30" as="geometry" />
+          <mxGeometry x="445" y="1095" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
