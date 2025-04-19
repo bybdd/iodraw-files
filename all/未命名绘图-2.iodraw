@@ -320,7 +320,7 @@
           <mxGeometry x="255" y="880" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="sg_qUHft_5jF-QeHtQmz-23" value="SemanticProbabilityEmbed" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="210" y="925" width="160" height="30" as="geometry" />
+          <mxGeometry x="160" y="930" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
