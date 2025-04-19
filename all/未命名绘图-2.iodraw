@@ -292,6 +292,9 @@
         <mxCell id="sg_qUHft_5jF-QeHtQmz-8" value="prob_enc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="950" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="sg_qUHft_5jF-QeHtQmz-10" value="AttentionFuse" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="920" width="90" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
