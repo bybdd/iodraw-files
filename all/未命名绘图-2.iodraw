@@ -311,7 +311,7 @@
           <mxGeometry x="10" y="1090" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sg_qUHft_5jF-QeHtQmz-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Semantic Embed Encoder side&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="850" width="240" height="30" as="geometry" />
+          <mxGeometry x="300" y="850" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sg_qUHft_5jF-QeHtQmz-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Semantic Embed Decoder side&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="255" y="1169" width="240" height="30" as="geometry" />
@@ -320,7 +320,7 @@
           <mxGeometry x="670" y="1030" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="sg_qUHft_5jF-QeHtQmz-23" value="SemanticProbabilityEmbed" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1010" width="160" height="30" as="geometry" />
+          <mxGeometry x="180" y="930" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
