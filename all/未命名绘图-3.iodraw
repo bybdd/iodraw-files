@@ -319,7 +319,7 @@
         <mxCell id="_hO5z60ogoy2Yw4xJ2U3-22" value="SemanticEmbed" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="267.5" y="1405" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_hO5z60ogoy2Yw4xJ2U3-23" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_hO5z60ogoy2Yw4xJ2U3-23" value="Semantic Embed Encoder side" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="1340" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
