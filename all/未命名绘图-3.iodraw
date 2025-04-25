@@ -317,7 +317,10 @@
           <mxGeometry x="300" y="1350" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="_hO5z60ogoy2Yw4xJ2U3-22" value="SemanticEmbed" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="267.5" y="1397.5" width="105" height="30" as="geometry" />
+          <mxGeometry x="267.5" y="1405" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_hO5z60ogoy2Yw4xJ2U3-23" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1180" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
