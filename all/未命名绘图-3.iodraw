@@ -359,13 +359,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_hO5z60ogoy2Yw4xJ2U3-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="575" y="1650" width="130" height="140" as="geometry" />
+          <mxGeometry x="580" y="1520" width="130" height="140" as="geometry" />
         </mxCell>
         <mxCell id="_hO5z60ogoy2Yw4xJ2U3-31" value="SemanticEmbed" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="647.5" y="1580" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_hO5z60ogoy2Yw4xJ2U3-37" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="372.5" y="1700" width="420" height="180" as="geometry" />
+          <mxGeometry x="372.5" y="1680" width="420" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
