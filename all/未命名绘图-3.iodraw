@@ -278,7 +278,7 @@
           <mxGeometry x="150" y="1390" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_hO5z60ogoy2Yw4xJ2U3-4" value="解码器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1520" width="80" height="50" as="geometry" />
+          <mxGeometry x="150" y="1560" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_hO5z60ogoy2Yw4xJ2U3-5" value="y_concat_dec" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="600" y="1520" width="90" height="50" as="geometry" />
@@ -286,7 +286,7 @@
         <mxCell id="_hO5z60ogoy2Yw4xJ2U3-6" value="prob_dec" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="600" y="1590" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_hO5z60ogoy2Yw4xJ2U3-7" value="AttentionFuse" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="_hO5z60ogoy2Yw4xJ2U3-7" value="AttentionFuse" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
           <mxGeometry x="320" y="1560" width="94" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_hO5z60ogoy2Yw4xJ2U3-8" value="SNREmbed" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
@@ -304,7 +304,7 @@
         <mxCell id="_hO5z60ogoy2Yw4xJ2U3-12" value="SNREmbed" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
           <mxGeometry x="470" y="1390" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_hO5z60ogoy2Yw4xJ2U3-13" value="channel" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="_hO5z60ogoy2Yw4xJ2U3-13" value="channel" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;rotation=-90;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="726" y="1440" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_hO5z60ogoy2Yw4xJ2U3-14" value="y_concat" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
