@@ -289,8 +289,8 @@
         <mxCell id="_hO5z60ogoy2Yw4xJ2U3-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="330" y="1520" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_hO5z60ogoy2Yw4xJ2U3-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="475" y="1520" width="80" height="50" as="geometry" />
+        <mxCell id="_hO5z60ogoy2Yw4xJ2U3-8" value="SNREmbed" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1560" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_hO5z60ogoy2Yw4xJ2U3-9" value="AttentionFuse" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="580" y="1390" width="110" height="50" as="geometry" />
